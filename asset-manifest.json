@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resume-builder/static/css/main.f855e6bc.css",
-    "main.js": "/resume-builder/static/js/main.b2629f25.js",
+    "main.js": "/resume-builder/static/js/main.9d686fa9.js",
     "static/js/977.59f9b171.chunk.js": "/resume-builder/static/js/977.59f9b171.chunk.js",
     "static/js/732.afc87c61.chunk.js": "/resume-builder/static/js/732.afc87c61.chunk.js",
     "static/media/benefits-of-a-professional-resume.png": "/resume-builder/static/media/benefits-of-a-professional-resume.da0a03fe4f0a07555e09.png",
@@ -37,11 +37,11 @@
     "static/media/4.png": "/resume-builder/static/media/4.cbbff81bb28d8b461194.png",
     "index.html": "/resume-builder/index.html",
     "main.f855e6bc.css.map": "/resume-builder/static/css/main.f855e6bc.css.map",
-    "main.b2629f25.js.map": "/resume-builder/static/js/main.b2629f25.js.map",
+    "main.9d686fa9.js.map": "/resume-builder/static/js/main.9d686fa9.js.map",
     "732.afc87c61.chunk.js.map": "/resume-builder/static/js/732.afc87c61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b2629f25.js"
+    "static/js/main.9d686fa9.js"
   ]
 }
